@@ -1,0 +1,30 @@
+/* QData Business Intelligence Dashboard */
+
+body {
+    background-color: #0e1117;
+    color: #fafafa;
+    font-family: Arial, sans-serif;
+}
+
+.main {
+    background-color: #0e1117;
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+}
+
+[data-testid="stMetric"] {
+    background-color: #1c2333;
+    border: 1px solid #30394d;
+    padding: 18px;
+    border-radius: 10px;
+}
+
+[data-testid="stMetricValue"] {
+    color: #00d4aa;
+}
+
+.stCaption {
+    color: #a0aec0;
+}
